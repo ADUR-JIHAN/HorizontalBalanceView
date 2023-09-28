@@ -28,8 +28,8 @@ class ViewController: UIViewController,GetIndexOfSelecetedBalanceDelegate {
     
     let balances = [
         Balance(title: "Income", value: "৳50,0000000"),
-        Balance(title: "Remmitance", value: "৳123"),
-        Balance(title: "Others", value: "৳50,0000000"),
+        Balance(title: "Remmitance", value: "৳123502"),
+        Balance(title: "Others", value: "৳50,00"),
     ]
     override func viewDidLoad() {
         super.viewDidLoad()
